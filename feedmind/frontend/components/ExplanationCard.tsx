@@ -10,7 +10,7 @@ export default function ExplanationCard({ data }: Props) {
     <div className="space-y-6">
       {/* ── Header ─────────────────────────────────────────── */}
       <div className="flex items-center gap-3">
-        <DifficultyBadge difficulty={data.difficulty} />
+        <DifficultyBadge level={data.difficulty} />
         {data.cached && (
           <span className="text-xs bg-slate-700 text-slate-400 px-2 py-0.5 rounded-full">
             cached

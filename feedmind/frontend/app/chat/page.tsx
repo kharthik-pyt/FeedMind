@@ -96,7 +96,7 @@ export default function ChatPage() {
             ) : (
               /* AI response */
               <div className="space-y-4">
-                <ExplanationCard response={msg.data} />
+                <ExplanationCard data={msg.data} />
 
                 {/* Videos */}
                 {msg.data.videos.length > 0 && (
