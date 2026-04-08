@@ -46,7 +46,7 @@
 │  You ▶  "Explain transformers in deep learning"              │
 │                                                              │
 │  ┌────────────────────────────────────────────────────────┐  │
-│  │  🏷 intermediate                                       │  │
+│  │  🏷 intermediate                                       │   │
 │  │                                                        │  │
 │  │  Transformers are a neural network architecture that   │  │
 │  │  revolutionized NLP by replacing RNNs with attention…  │  │
@@ -76,7 +76,7 @@
 │  │     Transformers power every major AI system in 2026.  │  │
 │  └────────────────────────────────────────────────────────┘  │
 │                                                              │
-│  🎥 Related Videos  ·  📚 3 Related Articles                 │
+│  🎥 Related Videos  ·  📚 3 Related Articles                  │
 └──────────────────────────────────────────────────────────────┘
 ```
 
