@@ -443,13 +443,7 @@ git commit -m 'feat: add voice input support'
 git push origin feature/voice-input
 ```
 
----
 
-## 📜 License
-
-MIT © 2026 — Free to use, modify, and distribute.
-
----
 
 <div align="center">
 
